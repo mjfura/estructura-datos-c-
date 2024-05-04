@@ -1,0 +1,51 @@
+# Archivos de objeto
+*.o
+*.ko
+*.obj
+*.elf
+
+index
+
+# Archivos de biblioteca
+*.lib
+*.a
+*.la
+*.dSYM
+# Archivos binarios
+
+*.bin
+*.exe
+*.app
+*.out
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Archivos temporales
+*.swo
+*.swp
+*.swn
+*.swm
+*.bak
+*.tmp
+*.temp
+
+# Archivos de log
+*.log
+
+# Directorios de construcción
+Debug/
+Release/
+.vs/
+*.suo
+*.ntvs*
+*.njsproj
+*.opendb
+*.VC.db
+*.VC.VC.opendb
+
+# Otros
+*.class
+*.prof
+*.lprof
